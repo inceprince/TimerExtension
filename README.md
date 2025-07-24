@@ -8,8 +8,7 @@ A cozy, chai-inspired **new tab extension** for Edge/Chrome that shows a beautif
 
 Here’s how the new tab looks in action:
 
-![New Tab UI Preview](screenshot.png)
-
+![New Tab UI Preview](Screenshot.png)
 
 
 ## 🧩 Features
